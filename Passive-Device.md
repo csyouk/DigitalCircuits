@@ -1,4 +1,7 @@
-# 용어
+# Passive-Device
+- 수동소자는 에너지를 소비만 한다.
+
+## 용어
 - 전압 : Electric Pressure(Voltage)
 - 접지 : GND(Ground)
 - 전류 : Current
@@ -8,15 +11,18 @@
 - AC
 - DC
 - 부하 : Load. 전원에 연결되어 에너지를 소비하는 모든 요소.
+- SMD : Surface Mounting Device
+- PCB : Printed Circuit Board
+- Through-hole Type
 
-# 식
+## 식
 - P = I * V
 - I = V / R
 
-# 단위
+## 단위
 
 
-# 전원 변환 장치
+## 전원 변환 장치
   - AC -> DC
     - Linear Adaptor : Transformer를 사용.
       - ![Transformer](./imgs/LinearAdaptor.jpg)
