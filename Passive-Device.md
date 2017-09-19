@@ -14,6 +14,8 @@
 - SMD : Surface Mounting Device
 - PCB : Printed Circuit Board
 - Through-hole Type
+- VSS : Voltage Source Source
+- VCC : Voltage of Common Collector
 
 ## 식
 - P = I * V

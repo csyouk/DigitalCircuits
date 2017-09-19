@@ -1,4 +1,4 @@
 # DigitalCircuits
-- ![수동소자](./Passive-Device.md)
+- ![Passive-Device](./Passive-Device.md)
 - ![RLC](./RLC.md)
-- ![능동소자](./Active-Device.md)
+- ![Active-Device](./Active-Device.md)

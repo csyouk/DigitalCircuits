@@ -1,4 +1,4 @@
-# RLC
+  # RLC
   - **R** Resistor
   - **L** Inductor
   - **C** Capacitor
